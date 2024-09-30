@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+
 # 필요한 모듈 import
 from packages.Trainer import Trainer
 from packages.Model import ModelSelector
