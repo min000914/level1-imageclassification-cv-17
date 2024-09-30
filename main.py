@@ -5,6 +5,7 @@
 from packages.Trainer import Trainer
 from packages.Model import ModelSelector
 from packages.Transform import TransformSelector
+from packages.Transform2 import TransformSelector
 from packages.CustomDataset import CustomDataset
 from packages.Loss import Loss
 
